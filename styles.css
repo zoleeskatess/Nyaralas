@@ -7,3 +7,36 @@
     font-size: 100px;
     color: white;   
 }
+img{
+    width: 550px;
+    height: 550px;
+    padding: 20px;
+}
+.nav-item{
+    font-size: 30px;
+    color:black;
+    text-align: center;
+    margin: auto;
+}
+.nav-item:hover{
+    font-weight: bold;
+}
+li{
+    margin: auto;
+}
+h1{
+    margin: auto;
+    text-align: center;
+    font-size: 60px;
+}
+h2{
+    font-size: 35px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    font-weight: bold;
+    color: red;
+}
